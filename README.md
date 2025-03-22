@@ -1,0 +1,2 @@
+This assignment focuses on analyzing a movie dataset using Python and Pandas to uncover insights about movie performance and ratings. The dataset includes various attributes such as director names, genres, IMDb scores, budgets, and gross earnings. The tasks involve reading and inspecting the dataset, cleaning the data by handling null values and removing duplicates, and performing data analysis to identify the most profitable movies and the top-rated movies based on IMDb scores.
+
